@@ -121,7 +121,7 @@ Este projeto tem como objetivo criar um modelo de predição para estimar o dese
       <a href="#">
         <img src="https://github.com/giandutra.png" width="100px;" alt="Foto do Autor no GitHub"/><br>
         <sub>
-          <b>SEU NOME</b>
+          <b>Gian Dutra</b>
         </sub>
       </a>
     </td>
