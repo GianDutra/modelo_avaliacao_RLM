@@ -2,7 +2,7 @@
 
 ---
 
-<img src="./.github/modelo_avaliacao_RLM.png" alt="modelo_avaliacao_RLM" title="Modelo de Predição de Desempenho Acadêmico">
+<img src="./.github/1.png" alt="modelo_avaliacao_RLM" title="Modelo de Predição de Desempenho Acadêmico">
 
 ---
 
