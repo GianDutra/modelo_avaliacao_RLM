@@ -1,4 +1,4 @@
-# Modelo de Previsão de Desempenho Acadêmico | [Vídeo Apresentação do Projeto](#)
+# Modelo de Previsão de Desempenho Acadêmico
 
 ---
 
